@@ -26,7 +26,7 @@ Results from the training process are saved under the `results` folder in the fo
 
 ## Illustrations
 
-The `slide` folder contains illustrations that help to explain the project and its objectives, the environment and the agent, and the training process. They can serve as a useful visual aid when explaining the project to others.
+The `slide` folder contains illustrations that help to explain the project and its objectives, the environment and the agent, and the training process. They can serve as a useful visual aid when explaining the project to others. For the presentation of this project please refer to this [demonstration video](https://www.youtube.com/watch?v=0m9NwT1oHZg).
 
 ## Dependencies
 
